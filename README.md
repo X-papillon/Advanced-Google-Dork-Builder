@@ -1,162 +1,151 @@
-🔎 Advanced Google Dork Builder
-Chrome Extension for Security Research & Advanced Search
+# 🔎 Advanced Google Dork Builder
+### Chrome Extension for Security Research & Advanced Search
 
+![Version](https://img.shields.io/badge/version-4.0-blue)
+![Manifest](https://img.shields.io/badge/manifest-v3-orange)
+![Platform](https://img.shields.io/badge/platform-Chrome-green)
+![Status](https://img.shields.io/badge/status-Active-success)
 
+---
 
+## 🧠 Overview
 
+**Advanced Google Dork Builder** is a powerful Chrome Extension designed for:
 
-
-
-
-🧠 Overview
-
-Advanced Google Dork Builder is a powerful Chrome Extension designed for:
-
-Security Researchers
-
-Penetration Testers
-
-Bug Bounty Hunters
-
-Developers
-
-OSINT Analysts
+- Security Researchers  
+- Penetration Testers  
+- Bug Bounty Hunters  
+- Developers  
+- OSINT Analysts  
 
 It simplifies building advanced Google search operators (Google Dorks) using a smart visual interface.
 
-No more manual typing errors.
-No more broken syntax.
+No more manual typing errors.  
+No more broken syntax.  
 Just clean, structured search queries.
 
-🚀 Core Features
-🔹 Smart Operator Engine
+---
 
-One-click operator insertion
+## 🚀 Features
 
-Smart "" wrapping
+### 🔹 Smart Operator Engine
 
-Clean prefix handling (inurl:, site:, filetype:, etc.)
+- One-click operator insertion  
+- Smart `""` wrapping  
+- Clean prefix handling (`inurl:`, `site:`, `filetype:` etc.)  
+- Parenthesis support `()`  
+- Logical operators (`AND`, `OR`, `-`)  
+- Syntax-safe query building  
 
-Parenthesis support ()
+---
 
-Logical operators (AND / OR / -)
+### 🔹 Built-in Security Presets
 
-🔹 Built-in Security Presets
+Preloaded categorized search templates:
 
-Includes categorized ready-to-use search templates:
+- 🔐 Admin Panels  
+- 🗂 File Discovery  
+- 📄 Sensitive Documents  
+- 📡 IoT & Cameras  
+- 🛢 Databases  
+- ⚙ Configuration Files  
+- 📑 Log Files  
+- 🌐 Web Vulnerabilities  
+- 📍 Location & Specialized Queries  
 
-🔐 Admin Panels
+Perfect for reconnaissance and structured research workflows.
 
-🗂 File Discovery
+---
 
-📄 Sensitive Documents
+### 🔹 URL Grabber System
 
-📡 IoT & Cameras
+- Extract URLs from active page  
+- Automatic duplicate removal  
+- Clickable result list  
+- Export collected URLs to `.txt`  
+- One-click clear function  
 
-🛢 Databases
+---
 
-⚙ Config Files
-
-📑 Logs
-
-🌐 Web Vulnerabilities
-
-📍 Location & Specialized Queries
-
-Perfect for reconnaissance and research workflows.
-
-🔹 URL Grabber System
-
-Extracts URLs from the active page
-
-Automatically removes duplicates
-
-Displays clickable list inside the extension
-
-Export all collected URLs to .txt
-
-One-click clear function
-
-🔹 Sidebar Mode (New)
+### 🔹 Sidebar Mode
 
 Toggle between:
 
-Sidebar ON → Tool stays pinned in Chrome side panel
+- **Sidebar ON** → Tool stays pinned in Chrome Side Panel  
+- **Sidebar OFF** → Works as standard popup  
 
-Sidebar OFF → Works as standard popup
+Designed for better productivity during long research sessions.
 
-Designed for better workflow during research sessions.
+---
 
-📸 Example Workflow
+## 📂 Project Structure
 
-Choose a preset or build manually
-
-Apply operators using buttons
-
-Click Search
-
-Grab URLs from results
-
-Export findings
-
-Fast. Clean. Efficient.
-
-🛠 Installation (Manual)
-
-Download or clone the repository
-
-Open Chrome
-
-Navigate to:
-
-chrome://extensions/
+Advanced-Google-Dork-Builder/
+│
+├── manifest.json
+├── popup.html
+├── popup.js
+├── sidebar.html
+├── background.js
+├── content.js
+└── style.css
 
 
-Enable Developer Mode
+---
 
-Click Load Unpacked
+## 🛠 Installation (Developer Mode)
 
-Select the extension folder
+1. Download or clone this repository
+2. Open Chrome
+3. Go to:
 
-Done ✅
 
-📂 Project Structure
-manifest.json
-popup.html
-popup.js
-sidebar.html
-content.js
-background.js
-style.css
+4. Enable **Developer Mode**
+5. Click **Load Unpacked**
+6. Select the extension folder
 
-⚙ Built With
+Installation complete ✅
 
-JavaScript (Vanilla)
+---
 
-Chrome Extension Manifest V3
+## ⚙ Technologies Used
 
-Chrome Storage API
+- JavaScript (Vanilla)
+- Chrome Extension Manifest V3
+- Chrome Storage API
+- Chrome Tabs API
+- Chrome Side Panel API
 
-Chrome Side Panel API
+---
 
-Chrome Tabs API
+## ⚠️ Disclaimer
 
-⚠️ Legal Disclaimer
+This extension is intended for:
 
-This extension is created for:
+- Educational purposes  
+- Ethical hacking  
+- Authorized security testing  
+- OSINT research  
 
-Educational purposes
-
-Ethical hacking
-
-Authorized security testing
-
-Research & OSINT
-
-Do NOT use this tool for illegal activities.
+Do **NOT** use this tool for illegal activities.
 
 The author is not responsible for misuse.
 
-👨‍💻 Author
+---
 
-Developed by Ashraf
+## 👨‍💻 Author
+
+Developed by **Ashraf**
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 🛠 Contribute improvements  
+
+---
+
