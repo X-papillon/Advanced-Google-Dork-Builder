@@ -1,4 +1,4 @@
-# 🔎 Advanced Google Dork Builder
+# <img src="https://raw.githubusercontent.com/X-papillon/Advanced-Google-Dork-Builder/refs/heads/main/google-advanced-builder-v4/image_1_1770977199033-removebg-preview.png" width="25"/> DarkDork Advanced Google Dork Builder
 ### Chrome Extension for Security Research & Advanced Search
 
 ![Version](https://img.shields.io/badge/version-4.0-blue)
