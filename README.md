@@ -131,11 +131,11 @@ If you find this project useful:
 ## 📸 Screenshots
 
 <p>
-  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot1.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/X-papillon/Advanced-Google-Dork-Builder/refs/heads/main/scrn1.png" width="400"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot2.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/X-papillon/Advanced-Google-Dork-Builder/refs/heads/main/scrn2.png" width="400"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot3.jpg" width="400"/>
+  <img src="https://raw.githubusercontent.com/X-papillon/Advanced-Google-Dork-Builder/refs/heads/main/scrn3.png" width="400"/>
 </p>
 
 ---
