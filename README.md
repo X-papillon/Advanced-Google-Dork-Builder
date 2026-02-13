@@ -67,29 +67,19 @@ Perfect for reconnaissance and structured research workflows.
 
 ---
 
-### 🔹 Sidebar Mode
-
-Toggle between:
-
-- **Sidebar ON** → Tool stays pinned in Chrome Side Panel  
-- **Sidebar OFF** → Works as standard popup  
-
-Designed for better productivity during long research sessions.
-
----
-
 ## 📂 Project Structure
 
+```
 Advanced-Google-Dork-Builder/
 │
 ├── manifest.json
 ├── popup.html
 ├── popup.js
-├── sidebar.html
+├── icons/
 ├── background.js
 ├── content.js
 └── style.css
-
+```
 
 ---
 
@@ -105,16 +95,6 @@ Advanced-Google-Dork-Builder/
 6. Select the extension folder
 
 Installation complete ✅
-
----
-
-## ⚙ Technologies Used
-
-- JavaScript (Vanilla)
-- Chrome Extension Manifest V3
-- Chrome Storage API
-- Chrome Tabs API
-- Chrome Side Panel API
 
 ---
 
@@ -135,7 +115,7 @@ The author is not responsible for misuse.
 
 ## 👨‍💻 Author
 
-Developed by **Ashraf**
+Developed by **Xpapillon**
 
 ---
 
@@ -148,4 +128,28 @@ If you find this project useful:
 - 🛠 Contribute improvements  
 
 ---
+## 📸 Screenshots
+
+<p>
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot1.jpg" width="400"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot2.jpg" width="400"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/X-papillon/YouTube-Quick-View/refs/heads/main/screenshot3.jpg" width="400"/>
+</p>
+
+---
+
+## ☕ Support the Project
+
+If this project helped you, consider supporting me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashraf07)
+
+Thank you for your support ❤️
+
+## 📜 License
+
+MIT License
+
 
